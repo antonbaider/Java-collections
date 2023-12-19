@@ -58,7 +58,7 @@ class Task6Test {
 		assertTrue(SortPeopleTools.hasParameterizedMethodTypeParameterBound("com.softserve.edu.sprint4.task6.Utility", "sortPeople", "T", "com.softserve.edu.sprint4.task6.Person"));
 	}
 
-	/* TODO Uncomment
+
 
 	@DisplayName("testSortPersonArray")
 	@Test
@@ -90,5 +90,5 @@ class Task6Test {
 		assertTrue(SortPeopleTools.testSortStringArrayUsingStringComparator());
 	}
 
-	*/
+
 }
